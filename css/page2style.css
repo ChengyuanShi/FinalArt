@@ -10,39 +10,39 @@ h1{
   font-family: 'Shadows Into Light', cursive;
 font-size: 50pt;
 }
-p{ position: relative;
+p{ position: absolute;
 			margin:0px;
 			font-size:14px;
 			padding-top:120px;
 			padding-left:300px;
 			padding-right:8px;
 }
-h2{ position: relative;
+h2{ position:absolute;
 			margin:0px;
 			font-size:14px;
 			padding-top:130px;
-			padding-left:1px;
+			padding-left:400px;
 			padding-right:8px;}
 
-h3{         position: relative;
+h3{         position: absolute;
       			margin:0px;
       			font-size:14px;
       			padding-top:120px;
-      			padding-left:1px;
+      			padding-left:500px;
           padding-right:8px;
       			}
 
-  h4{         position: relative;
+  h4{         position: absolute;
                   			margin:0px;
                   			font-size:14px;
                   			padding-top:455px;
-                  			padding-left:1px;
+                  			padding-left:700px;
                       padding-right:8px;
                   			}
-  h5{        position: relative;
+  h5{        position: absolute;
           margin:0px;
                                               font-size:14px;
                                               padding-top:410px;
-                                              padding-left:1px;
+                                              padding-left:600px;
                                             padding-right:8px;
                                               }
