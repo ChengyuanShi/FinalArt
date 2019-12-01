@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+
+body{
+  background-color: white;
+  background-image:url("../image/school.jpg");
+  background-repeat:no-repeat;
+}
+h3{         position: absolute;
+                      margin:0px;
+                      font-size:14px;
+                      padding-top:438px;
+                      padding-left:910px;
+                    padding-right:8px;
+      			}
