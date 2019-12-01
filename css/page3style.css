@@ -25,10 +25,10 @@ h3{         position: absolute;
                   			padding-left:300px;
                       padding-right:8px;
                   			}
-  h5{        position: absolute;
-          margin:0px;
-
-                                              padding-top:200px;
-                                              padding-left:100px;
-
-                                              }
+                        h5{         position: absolute;
+                                        			margin:0px;
+                                        			font-size:14px;
+                                        			padding-top:200px;
+                                        			padding-left:100px;
+                                            padding-right:8px;
+                                        			}
