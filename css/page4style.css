@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+
+body{
+  background-color: white;
+  background-image:url("../image/train.jpg");
+  background-repeat:no-repeat;
+}
